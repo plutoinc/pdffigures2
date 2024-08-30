@@ -27,7 +27,7 @@ lazy val projectSettings = Seq(
   libraryDependencies ++= Seq(
     "io.spray" %% "spray-json" % "1.3.6",
     "com.github.scopt" %% "scopt" % "4.1.0",
-    "ch.qos.logback" % "logback-classic" % "1.2.11",
+    "ch.qos.logback" % "logback-classic" % "1.5.7",
     "org.slf4j" % "jcl-over-slf4j" % "1.7.36",
     "org.apache.pdfbox" % "pdfbox" % "2.0.26",
     "org.apache.pdfbox" % "fontbox" % "2.0.26",
